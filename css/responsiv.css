@@ -1,0 +1,649 @@
+@media (max-width: 575.98px){
+/* ======common css start======= */
+.common_heading h3{
+    font-size: 22px ;
+}
+.common_heading p{
+    font-size: 12px ;
+    margin-bottom: 30px;
+}
+.common_heading p span{
+    display: inline;
+}
+/* -------common css End------- */
+/* ------- Navbar Part Start-------- */
+.dropdown-menu.show {
+    display: block;
+    background: #fff;
+}
+.navbar-toggler{
+    border: 1px solid #1F4172;
+    color:#132043 ;
+}
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.show{
+    padding-bottom: 20px;
+}
+.main_menu{
+    background-color: #000080;
+    border-radius: 15px;
+    padding: 15px 0;
+}
+.main_menu li a{
+    color: #fff !important;
+}
+/* ------Banner Part Start----- */
+#banner{
+    padding: 50px 0;
+}
+
+#banner{
+    padding: 50px 0;
+}
+.banner_text {
+	margin-left: 79px;
+}
+.banner_text h1 {
+    width: 100%;
+    font-size: 12px;
+}
+.banner_text h1 {
+    width: 100%;
+    font-size: 38px;
+}
+.banner_text h2 {
+    width: 100%;
+    font-size: 23px;
+}
+.banner_text p {
+    font-size: 11px;
+    margin-top: -18px;
+    width: 208px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: var(--inika);
+    color: #000;
+    padding: 39px 0 39px 0;
+}
+.banner_btn {
+	width: 134px;
+	height: 47px;
+	background: var(--secendary);
+	border-radius: 0 30px 0 30px;
+	font-size: 15px;
+	font-weight: 400;
+	font-family: var(--inika);
+	color: #fff;
+	text-align: center;
+	line-height: 87px;
+	border: 2px solid transparent;
+	transition: 0.2s all linear;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.banner_button a {
+    width: 120px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+/* ======feature part start====== */
+.features_box{
+	margin-left: 9px;
+}
+.features_head_text h2 {
+	font-size: 28px;
+}
+.features_btn a {
+	width: 130px;
+	height: 42px;
+	font-size: 11px;
+}
+.features_box_item {
+	width: 280px;
+	padding: 10px 46px 15px 30px;
+}
+.features_box_item .features_box_item_text h2 {
+	width: 260px;
+	font-size: 18px;
+}
+.features_box_item .features_box_item_text p {
+	width: 230px;
+	font-size: 12px;
+	padding: 15px 0;
+}
+.features_box_item .features_box_item_btn a {
+	font-size: 12px;
+}
+.features_box_item .features_box_item_btn a span {
+	margin-left: 6px;
+}
+/* ========Trusted part start============== */
+.clint_text h2 {
+	width: 120px;
+	font-size: 18px;
+	font-weight: 700;
+	margin-top: -80px;
+	font-family: var(--inika);
+	color: var(--secendary);
+}
+.clint_text p {
+	margin-top: 30px;
+	width: 250px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: var(--inika);
+	color: var(--secendary);
+}
+.trusted_col_2 video {
+	width: 150px;
+	height: 150px;
+	margin: -164px;
+}
+/* ----------truted_2--------- */
+.working_col_2 h1 {
+	width: 130px;
+	font-size: 18px;
+	margin-top: 50px;
+	margin-left: 30px;
+}
+.working_col_2 p {
+	width: 120px;
+	font-size: 14px;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.working_col_1 video {
+	margin-top: 20px;
+	width: 150px;
+	height: 200px;
+}
+.working_col_2 h1 {
+	width: 50px;
+	font-size: 18px;
+}
+.list_text h3 {
+	font-size: 12px;
+	margin-top: 33px;
+	margin-left: -40px;
+}
+.working_col_2 p {
+	width: 120px;
+	font-size: 14px;
+	margin-top: 10px;
+}
+
+.support_btn a {
+	width: 140px;
+	height: 40px;
+}
+/* ========Slider part start============== */
+.slider_bg {
+	margin-top: 70px;
+	width: 300px;
+	height: 205px;
+}
+.slider_bg video {
+	width: 60px;
+	height: 231px;
+	margin-top: -70px;
+	margin-left: 0px;
+}
+.heading h3 {
+	width: 50px;
+	font-size: 9px;
+	top: 72px;
+	left: 2px;
+}
+.txt p {
+	width: 46px;
+	font-size: 6px;
+	top: 100px;
+}
+/* ========Counter part start============== */
+.main_counter {
+	gap: 10px;
+}
+.counter_box {
+	width: 200px;
+	height: 200px;
+	margin-left: -178px;
+}
+.counter_box .counter_4 {
+	font-size: 28px;
+	margin-left: 40px;
+}
+/* ========client part start============== */
+.client_text h3 {
+	font-size: 36px;
+	margin-top: 30px;
+	margin-bottom: 32px;
+}
+.client_review_row {
+    flex-direction: column;
+    align-items: center;
+}
+/* ========Priicng part start============== */
+.pricing_head a {
+	width: 124px;
+	height: 35px;
+	font-size: 14px;
+	line-height: 35px;
+}
+.pricing_head h2 {
+	font-size: 24px;
+}
+.pricing_list {
+    flex-direction: column;
+    align-items: center;
+}
+.plan {
+	width: 260px;
+}
+.plan_icon i {
+	font-size: 54px;
+}
+.plan_text h2 {
+	font-size: 28px;
+}
+.plan_text2 i {
+	font-size: 34px;
+}
+.plan_text2 span {
+	font-size: 36px;
+}
+.plan_text2 h4 {
+	font-size: 14px;
+}
+.line {
+	height: 5px;
+}
+.plan_text2 a {
+	width: 183px;
+	height: 37px;
+	font-size: 22px;
+}
+/* ========Download part start============== */
+#download_desices {
+	margin-top: 38px;
+	margin-bottom: 38px;
+}
+.download_devices_head h1 {
+	font-size: 42px;
+}
+.devices_text h2 {
+	font-size: 26px;
+}
+.devices_text p {
+	font-size: 16px;
+}
+.device_icon {
+	margin-right: 32px;
+    font-size: 12px;
+}
+.download_device_item{
+    margin-bottom: 10px;
+}
+/* ========Footer part part start============== */
+.footer_row {
+	display: block;	
+}
+.footer_logo_col .footer_logo img {
+	width: 200px;
+    margin-top: 13px;
+}
+.footer_service_col {
+	margin-top: 15px;
+}
+.footer_logo_col h2 {
+	width: 270px;
+	font-size: 12px;
+    margin-top: 14px;
+    margin-bottom: 12px;
+}
+.footer_icon ul li a i {
+	font-size: 16px;
+}
+.footer_services {
+	margin-top: 8px;
+}
+.footer_service_head h3 {
+	font-size: 16px;
+}
+  .footer_service_head h3::after{
+        height: 3px;
+    }
+    .footer_service_head h3:hover::after{
+        width: 86px;
+    }
+.footer_services p {
+	font-size: 10px;
+	margin-top: 6px;
+}
+#footer .copyright p {
+	font-size: 7px;
+}
+}
+/* -------------sm device end------------ */
+@media (min-width:576px) and (max-width: 767.98px){
+/* ------ Common CSS -------- */
+.common_heading h3{
+    font-size: 25px ;
+}
+.common_heading p{
+    font-size: 14px ;
+    margin-bottom: 40px;
+}
+/* ------Banner Part Start----- */
+#banner{
+    padding: 50px 0;
+}
+.banner_text {
+	margin-left: 300px;
+}
+.banner_text h1 {
+    width: 100%;
+    font-size: 38px;
+}
+.banner_text h2 {
+    width: 100%;
+    font-size: 20px;
+}
+.banner_text p {
+	font-size: 11px;
+    margin-top: -18px;
+    width: 208px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: var(--inika);
+    color: #000;
+    padding: 39px 0 39px 0;
+}
+/* ========pricing part start============== */
+.pricing_head h2 {
+	font-size: 32px;
+}
+.pricing_head a {
+	font-size: 16px;
+}
+.pricing_list {
+	gap: 40px;
+	flex-direction: column;
+	align-items: center;
+}
+/* ========Download part start============== */
+#download_desices {
+	margin-top: 35px;
+	margin-bottom: 30px;
+}
+.download_devices_head {
+	margin-bottom: 45px;
+}
+.download_devices_head h1 {
+	font-size: 50px;
+}
+.download_device_item{
+    margin-bottom: 15px;
+}
+.devices_text p {
+	font-size: 16px;
+}
+.devices_text h2 {
+	font-size: 34px;
+}
+/* ========Footer part start============== */
+.footer_row {
+	display: block;
+ }
+ .footer_logo_col h2 {
+	 font-size: 16px;
+ }
+ .footer_icon ul li a i {
+	 font-size: 20px;
+ }
+ .footer_service_col {
+	 margin-top: 20px;
+ }
+ .footer_services {
+	 margin-top: 18px;
+ }
+ .footer_service_head h3::after{
+	 height: 4px;
+ }
+ .footer_services p {
+	 font-size: 13px;
+ }
+ #footer .copyright p {
+	 font-size: 10px;
+ }
+}
+/* ----------------md device end------------- */
+@media (min-width:768px) and (max-width:991.98px){
+
+/* ------ Common CSS -------- */
+.common_heading h3{
+    font-size: 25px ;
+}
+.common_heading p{
+    font-size: 14px ;
+    margin-bottom: 40px;
+}
+/* ------Banner Part Start----- */
+#banner{
+    padding: 50px 0;
+}
+.banner_col {
+	/* display: flex; */
+	gap: 271px;
+}
+.banner_text {
+	margin-left: 400px;
+}
+.banner_text h1 {
+	width: 375px;
+	font-size: 38px;
+	margin-left: -33px;
+}
+.banner_text h2 {
+    width: 100%;
+    font-size: 20px;
+}
+.banner_text p {
+	margin-top: -18px;
+    margin-left: -30px;
+    width: 349px;
+    font-size: 18px;
+}
+.banner_btn{
+    margin-left: -30px;
+}
+/* ========pricing part start============== */
+.pricing_head a {
+	width: 134px;
+	font-size: 16px;
+	margin-top: 66px;
+}
+.pricing_head h2 {
+	font-size: 36px;
+	margin: 60px 120px 40px 18px;
+}
+.pricing_list {
+	gap: 7px;
+}
+.plan_icon i {
+	font-size: 50px;
+	margin-top: 30px;
+}
+.plan_text h2 {
+	font-size: 30px;
+}
+.plan_text2 span {
+	font-size: 44px;
+}
+.line {
+	height: 6px;
+	width: 180px;
+}
+.plan_text2 .plan_p ul li {
+	font-size: 16px;
+}
+.plan_text2 a {
+	width: 170px;
+	height: 33px;
+	font-size: 20px;
+	line-height: 33px;
+	margin: 15px 0px;
+}
+/* ========Client part start============== */
+.white_box {
+	width: 200px;
+	height: 280px;
+}
+.white_box .reviw_txt {
+	width: 180px;
+}
+.white_box .reviw_txt p{
+	margin-top: 20px;
+}
+.client_review ul {
+	top: 170px;
+	padding: 25px 0px 10px 50px;
+}
+
+/* ========Download part start============== */
+.download_devices_head h1 {
+	font-size: 48px;
+}
+.download_device_item{
+	margin-bottom: 15px;
+}
+.devices_text p {
+	font-size: 16px;
+}
+.devices_text h2 {
+	font-size: 32px;
+}
+/* ========Footer part start============== */
+.footer_row {
+	gap: 14px;
+}
+.footer_logo_col .footer_logo img {
+	width: 250px;
+	margin-top: 15px;
+}
+.footer_logo_col h2 {
+	width: 275px;
+	font-size: 14px;
+	margin-top: 18px;
+	margin-bottom: 14px;
+}
+.footer_icon ul li a i {
+	font-size: 16px;
+}
+.footer_service_col {
+	margin-top: 30px;
+}
+.footer_service_head h3 {
+	font-size: 15px;
+}
+.footer_service_head h3::after{
+	height: 3px;
+}
+.footer_service_head h3:hover::after{
+	width: 82px;
+}
+.footer_services p {
+	font-size: 10px;
+}
+#footer .copyright p {
+	font-size: 9px;
+}
+}
+/* ---------------lg device end------------- */
+@media (min-width:992px) and (max-width:1199.98px){
+
+.banner_text {
+	margin-left: 547px;
+}
+.banner_text h1 {
+	width: 397px;
+	font-size: 43px;
+	font-weight: 700;
+	font-family: var(--inika);
+	color: var(--secendary);
+}
+.banner_text p {
+	width: 385px;
+	font-size: 18px;
+	font-weight: 400;
+	font-family: var(--inika);
+	color: #000;
+	padding: 39px 0 39px 0;
+}
+/* ========Feature part start============== */
+.features_box_item {
+	width: 300px;
+}
+/* ========pricing part start============== */
+.pricing_head h2 {
+	font-size: 42px;
+	margin: 55px 255px 36px 42px;
+}
+.pricing_head a {
+	font-size: 16px;
+	margin-top: 68px;
+}
+/* ========pricing part start============== */
+.download_devices_head {
+	margin-bottom: 34px;
+}
+.download_devices_head h1 {
+	font-size: 55px;
+}
+.devices_text p {
+	font-size: 16px;
+}
+.devices_text h2 {
+	font-size: 28px;
+}
+.device_icon {
+	margin-right: 30px;
+}
+/* ========Footer part start============== */
+.footer_row {
+	gap: 43px;
+}
+.footer_logo_col .footer_logo img {
+	width: 280px;
+}
+.footer_logo_col h2 {
+	width: 330px;
+	font-size: 15px;
+	margin-top: 20px;
+	margin-bottom: 17px;
+}
+.footer_icon ul li a i {
+	font-size: 21px;
+}
+.footer_service_col {
+	margin-top: 53px;
+}
+.footer_service_head h3 {
+	font-size: 22px;
+}
+.footer_service_head h3::after{
+	height: 4px;
+}
+.footer_service_head h3:hover::after{
+	width: 120px;
+}
+.footer_services p {
+	font-size: 13px;
+}
+#footer .copyright p {
+	font-size: 11px;
+}
+
+}
